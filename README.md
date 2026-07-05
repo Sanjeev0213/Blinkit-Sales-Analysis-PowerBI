@@ -47,15 +47,6 @@ This project is an interactive Power BI dashboard built to analyze Blinkit's sal
 - Microsoft Excel
 
 ---
-
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-```md
-![Dashboard](Images/Dashboard.png)
-```
-
 ---
 
 ## 📌 Key Insights
