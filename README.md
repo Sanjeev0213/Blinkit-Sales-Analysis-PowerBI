@@ -88,7 +88,3 @@ This project is an interactive Power BI dashboard built to analyze Blinkit's sal
 **Sanjeev Kumar Yadav**
 
 If you found this project useful, feel free to ⭐ the repository.
-
-**Sanjeev Kumar Yadav**
-
-If you found this project useful, feel free to ⭐ the repository.
